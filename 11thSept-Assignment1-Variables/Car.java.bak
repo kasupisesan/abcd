@@ -1,0 +1,9 @@
+class Car
+{
+	public static void main(String [] args){
+		car_cost=960000;
+		car_name="Volkswagen POLO";
+		car_type="Diesel";
+		System.out.println(car_cost+" "+car_name+" "+car_type);
+}
+}
